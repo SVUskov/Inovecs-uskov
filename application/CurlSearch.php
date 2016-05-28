@@ -62,7 +62,7 @@ class CurlSearch
 
     /**
      * General search function
-     * @return array|string
+     * @return string
      */
     public function search()
     {
