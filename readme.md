@@ -3,6 +3,7 @@
 Here is my performed test task.
 
 *Task was the next:*
+
 1. Check the page and see what AJAX calls it actually makes to get the 
 data (url, variables, methods).
 2. Create your own PHP to make a call to check for existing email address via cURL.
