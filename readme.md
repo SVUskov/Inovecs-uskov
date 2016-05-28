@@ -1,4 +1,4 @@
-## Inovacs - test task ##
+## Inovecs - test task ##
 
 Here is my performed test task.
 
@@ -16,9 +16,9 @@ can easily understand it.
 
 
 I used a third-party library, namely it was **Validator** class for data
-validation. You can find it by following the link [Validator](http://biznesguide.ru/coding/146.html)
+validation. You can find it by following the link [Validator](http://biznesguide.ru/coding/146.html).
 
-Also I used such libraries like jQuery v2.2.4 and Bootstrap v3.3.6.
+Also I used such libraries like **jQuery v2.2.4** and **Bootstrap v3.3.6**.
 It included like dependencies and located in *vendors* folder. I used Composer for this.
  
 *Require* parameters discribed in *composer.json*. So after cloning/downloading
